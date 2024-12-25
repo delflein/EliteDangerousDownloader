@@ -41,7 +41,6 @@ The Elite Dangerous Downloader is a Python-based application that allows users t
 - Python 3.x
 - Requests
 - Tkinter
-- Concurrent Futures
 
 ## Notes
 - Ensure the output directory is empty before starting a new download to avoid overwriting existing files.
