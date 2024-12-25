@@ -28,7 +28,7 @@ The Elite Dangerous Downloader is a Python-based application that allows users t
 ## Usage
 1. **Run the application:**
    ```sh
-   python downloader.py
+   python EDDownload.py
    ```
 
 2. **Input the manifest URL and select the output directory.**
